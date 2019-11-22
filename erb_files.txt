@@ -1,0 +1,9 @@
+app/views/users/edit_profile.html.erb
+app/views/users/edit_profile_with_errors.html.erb
+app/views/flights/index.html.erb
+app/views/flights/show.html.erb
+app/views/user_sessions/sign_up.html.erb
+app/views/user_sessions/sign_in.html.erb
+app/views/layouts/application.html.erb
+app/views/layouts/mailer.text.erb
+app/views/layouts/mailer.html.erb
